@@ -29,7 +29,8 @@
     <br />
 
   </p>
-  <img src="https://github.com/jocxyen/Track/blob/main/p12.jpg" />
+  <img src="https://github.com/jocxyen/Track/blob/main/showcase.png" /><br/>
+  <img src="https://github.com/jocxyen/Track/blob/main/showcase2.png" />
 </div>
 
 
