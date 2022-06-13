@@ -26,7 +26,7 @@ const ConnectWallet = ({ accounts, setAccounts, setAddr, user, setUser }) => {
   const { isOpen, onOpen, onClose } = useDisclosure();
 
   const uauth = new UAuth({
-    clientID: '3284fbd8-0911-49bd-8017-771038cdd07b',
+    clientID: process.env.REACT_APP_ID,
     redirectUri: 'http://localhost:3000',
     scope: 'openid wallet',
   });
