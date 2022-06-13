@@ -22,7 +22,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">TRACK→ Track people tokens and NFTs </h3>
+  <h3 align="center">TRACK→ Track people tokens and NFTs on Polygon </h3>
 
   <p align="center">
     Built with Covalent API & Unstoppable Domains
