@@ -27,7 +27,7 @@ const ConnectWallet = ({ accounts, setAccounts, setAddr, user, setUser }) => {
 
   const uauth = new UAuth({
     clientID: process.env.REACT_APP_ID,
-    redirectUri: 'http://localhost:3000',
+    redirectUri: `process.env.REACT_APP_REDIRECTURI`,
     scope: 'openid wallet',
   });
   useEffect(() => {
